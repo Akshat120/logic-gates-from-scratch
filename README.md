@@ -20,5 +20,6 @@ Make sure you have Python installed along with the following libraries:
 ### Installation & Running the Notebooks
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Akshat120/Learning-Gates-ANN.git](https://github.com/Akshat120/Learning-Gates-ANN.git)
+   git clone https://github.com/Akshat120/logic-gates-from-scratch.git
    cd Learning-Gates-ANN
+   ```
