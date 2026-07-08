@@ -21,5 +21,5 @@ Make sure you have Python installed along with the following libraries:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Akshat120/logic-gates-from-scratch.git
-   cd Learning-Gates-ANN
+   cd logic-gates-from-scratch
    ```
